@@ -2,6 +2,9 @@
     margin-left: 10px;
 }
 
+.homepage h1{
+    text-align: center;
+}
 img {
     display: block;
     height: auto;
