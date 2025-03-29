@@ -1,13 +1,19 @@
 * {
     margin-left: 10px;
+    margin-bottom: 4px;
 }
 
 .homepage h1{
     text-align: center;
 }
+
 img {
     display: block;
     height: auto;
     width: 300px;
 }
+
+
+
+
 
